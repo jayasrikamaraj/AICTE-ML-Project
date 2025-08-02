@@ -39,7 +39,7 @@ We propose a supervised machine learning solution that:
 * **Training**: Supervised Learning using labeled fault types
 * **Deployment Platform**: IBM Watsonx.ai Studio with real-time data access via IBM Cloud Object Storage and API endpoints
 
-## 🚀 System Architecture
+## System Architecture
 
 | Layer         | Tool/Tech                    |
 | ------------- | ---------------------------- |
